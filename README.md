@@ -1,4 +1,5 @@
-<!-- <img src=".png" align="right" /> -->
+[<img src="acm_logo.png" align="right" width="150"/>](https://pec.acm.org/)
+
 # [ACM-CSS](https://pec.acm.org/)
 > The Association for Computing Machinery and Computing Classification System
 
