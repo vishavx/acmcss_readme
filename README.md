@@ -1,4 +1,4 @@
-[<img src="acm_logo.png" align="right" width="150"/>](https://pec.acm.org/)
+[<img src="acm_logo.png" align="right" width="145"/>](https://pec.acm.org/)
 
 # ACM-CSS
 > The Association for Computing Machinery and Computing Classification System
@@ -14,5 +14,22 @@ Our mission is to be the most impactful ACM student chapter worldwide and to enh
 - Machine Learning
 - Cyber Security
 
+### This is our official website - https://pec.acm.org/
+
+### This is our e-mail address - acmcss@pec.edu.in
 
 
+<br>
+
+---
+
+<div align="center">
+  
+<a href=""><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="70"></a>
+<a href=""><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="70"></a>
+<a href=""><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="70"></a>
+<a href=""><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="70"></a>
+  
+### Follow us at
+  
+</div>
