@@ -25,7 +25,7 @@ Our mission is to be the most impactful ACM student chapter worldwide and to enh
 
 <div align="center">
   
-<a href="https://twitter.com/pec_acm?t=y2fAXu2NRVAiSGWnF8IWwQ&s=08" target="_blank"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="70"></a>
+%md <a href="https://twitter.com/pec_acm?t=y2fAXu2NRVAiSGWnF8IWwQ&s=08" target="_blank"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="70"></a>
 <a href="https://www.linkedin.com/company/pec-acm-student-chapter/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="70"></a>
 <a href="https://m.facebook.com/pecacm?_rdr"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="70"></a>
 <a href="https://www.instagram.com/pecacm/?igshid=YmMyMTA2M2Y%3D"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="70"></a>
